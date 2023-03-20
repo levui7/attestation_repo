@@ -1,0 +1,26 @@
+#rectangle{
+    height: 95px;
+    width: 100px;
+    color: #003A33; 
+}
+
+.menu-list{
+    display: flex;
+    list-style-type: none;
+    margin-left: 950px;
+    color: #003A33;
+}
+
+.menu-item{
+    margin-right: 25px;
+    color: white;
+}
+
+.menu-item a {
+    text-decoration: none;
+    color: #fff;
+}
+  
+.menu-item-main{
+    font-weight: bold;
+}
